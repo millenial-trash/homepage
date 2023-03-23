@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Millennial Trash</title>
+    <style>
+      body {
+        background-color: black;
+        color: blue;
+      }
+      a {
+        color: red;
+      }
+      a:visited {
+        color: maroon;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Millennial Trash</h1>
+    <p>Coming soon</p>
+  </body>
+</html>
